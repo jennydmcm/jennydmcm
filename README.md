@@ -1,7 +1,9 @@
 <h1 align="center">⋆｡°✩₊☾₊✩°｡⋆hi! im jenny mcmahon⋆｡°✩₊☾₊✩°｡⋆</h1>
-  <br><br>
 </p>
-
+<p align="center" >
+<a href="https://www.linkedin.com/in/jenny-mcmahon222/"><img alt="Linkedin" src="https://img.shields.io/badge/linkedin-%23918EF4.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+</p>
+  <br><br>
 <h2 align="center" >˚ ༘ ೀ⋆｡˚technologies and tools˚ ༘ ೀ⋆｡˚</h2>
 <p align="center">
 <a href="#"><img alt="Next.js" src="https://img.shields.io/badge/Next-918EF4?style=for-the-badge&logo=next.js&logoColor=white">
