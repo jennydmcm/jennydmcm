@@ -1,16 +1,23 @@
-### Hi there 👋
+<h1 align="center">⋆｡°✩₊☾₊✩°｡⋆hi! im jenny mcmahon⋆｡°✩₊☾₊✩°｡⋆</h1>
+  <br><br>
+</p>
 
-<!--
-**jennydmcm/jennydmcm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center" >˚ ༘ ೀ⋆｡˚technologies and tools˚ ༘ ೀ⋆｡˚</h2>
+<p align="center">
+<a href="#"><img alt="Next.js" src="https://img.shields.io/badge/Next-918EF4?style=for-the-badge&logo=next.js&logoColor=white">
+<a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-918EF4.svg?logo=javascript&logoColor=white"></a>
+<a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-918EF4.svg?logo=html5&logoColor=white"></a>
+<a href="#"><img alt="mySQL" src="https://img.shields.io/badge/mysql-918EF4.svg?style=for-the-badge&logo=mysql&logoColor=white"></a>
+<a href="#"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-918EF4?style=for-the-badge&logo=Firebase&logoColor=white"></a>
 
-Here are some ideas to get you started:
+</p>
+<p align="center">
+<a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-918EF4.svg?logo=visual-studio-code&logoColor=white"></a>
+<a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-918EF4?logo=Arduino&logoColor=white"></a>
+<a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-918EF4.svg?logo=adobe&logoColor=white"></a>
+<a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-918EF4.svg?logo=git&logoColor=white"></a>
+<a href="#"><img alt="Figma" src="https://img.shields.io/badge/figma-%23918EF4.svg?style=for-the-badge&logo=figma&logoColor=white"></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+</p>
+<h3 align="center">thanks for looking! ଘ(੭ˊᵕˋ)੭* ੈ✩‧₊</h3>
